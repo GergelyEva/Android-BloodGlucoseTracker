@@ -75,7 +75,7 @@ This class manages the foreground service for displaying notifications at specif
 
 This class is responsible for displaying a graph of the users blood glucose values over time. It also contains a button to send this values to a doctor, whose email was noted in login info.
 
-![My Image](img/graph.png)  ![My Image](img/mail.jpg) 
+![My Image](img/graph.jpeg)  ![My Image](img/mail.jpg) 
 
 <p align="right">(<a href="#readme-top">Back to Top</a>)</p>
 
